@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/harshita-tech07/leetcode/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/harshita-tech07/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/harshita-tech07/leetcode/tree/master/0066-plus-one) |
 ## Array
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshita-tech07/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/harshita-tech07/leetcode/tree/master/0013-roman-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/harshita-tech07/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/harshita-tech07/leetcode/tree/master/0014-longest-common-prefix) |
 ## Trie
 |  |
