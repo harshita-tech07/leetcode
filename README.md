@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/harshita-tech07/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/harshita-tech07/leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/harshita-tech07/leetcode/tree/master/0020-valid-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -49,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3360-stone-removal-game](https://github.com/harshita-tech07/leetcode/tree/master/3360-stone-removal-game) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/harshita-tech07/leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/harshita-tech07/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
