@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/harshita-tech07/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/harshita-tech07/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/harshita-tech07/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/harshita-tech07/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshita-tech07/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/harshita-tech07/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/harshita-tech07/leetcode/tree/master/0067-add-binary) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshita-tech07/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/harshita-tech07/leetcode/tree/master/0022-generate-parentheses) |
 ## Linked List
 |  |
 | ------- |
@@ -124,4 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/harshita-tech07/leetcode/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/harshita-tech07/leetcode/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/harshita-tech07/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
