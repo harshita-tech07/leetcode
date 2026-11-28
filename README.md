@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/harshita-tech07/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/harshita-tech07/leetcode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/harshita-tech07/leetcode/tree/master/0169-majority-element) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/harshita-tech07/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,8 +132,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/harshita-tech07/leetcode/tree/master/0022-generate-parentheses) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/harshita-tech07/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/harshita-tech07/leetcode/tree/master/0022-generate-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/harshita-tech07/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 <!---LeetCode Topics End-->
